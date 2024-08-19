@@ -9,6 +9,7 @@ This project contains a Python script that simulates various aspects of Real-Tim
 - Basic bidding strategy implementation
 - Bid price adjustment based on user data
 - Daily reporting functionality
+- Generates a visual daily report summarizing auction performance
 
 ## Requirements
 
