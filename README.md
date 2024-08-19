@@ -45,6 +45,13 @@ This simulation can be extended in various ways:
 - Implement different auction types (e.g., second-price auctions)
 - Add functionality to simulate ad serving and impression tracking
 
+## AdVantageX Daily Report Visualization
+
+This project now includes branding for AdVantageX, our fictional ad exchange, which is reflected in the daily report visualization. This report provides key metrics such as Total Impressions, Total Spend, and Average CPM.
+
+![AdVantageX Daily Report](images/AdVantageX.png)
+
+
 ## Disclaimer
 
 This is a simplified simulation for educational purposes and does not represent a complete or production-ready RTB system.
